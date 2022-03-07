@@ -1,1 +1,1 @@
-console.log("Proba este leito puto");
+console.log("Proba este alberto puto");
